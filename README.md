@@ -6,8 +6,6 @@ Technologies used: Python, Pandas
 
 # Live Version
 
-https://replit.com/@lorenzo-lipp/Demographic-Data-Analyzer
-
 ![image](./images/preview.png)
 
 # Running Locally
